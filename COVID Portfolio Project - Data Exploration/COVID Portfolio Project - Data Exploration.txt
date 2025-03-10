@@ -1,0 +1,45 @@
+/*
+Covid 19 Data Exploration and visualize using Tableau Data Visualization 
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
+
+About Dataset
+Three points to keep in mind about confirmed death figures
+The actual death toll from COVID-19 is likely to be higher than the number of confirmed deaths – this is due to limited testing, poorly functioning death registries, challenges in determining the cause of death, and disruptions during the pandemic. The difference between reported confirmed deaths and actual deaths varies between countries.
+COVID-19 deaths may be recorded in different ways between countries (e.g., some countries may only count hospital deaths, whilst others also include deaths in homes).
+The death figures on a given date do not necessarily show the number of new deaths on that day, but the deaths reported on that day. Since reporting is delayed and the levels of reporting can vary between days, such as on weekends, regardless of any actual variation of deaths, it is more helpful to view the seven-day rolling average of the daily figures as we do in the chart here.
+We provide more detail on these points in the section 'Deaths from COVID-19: background'.
+
+
+Three tips on how to interact with this chart
+By clicking on ‘Edit countries and regions’, you can show and compare the data for any country in the world you are interested in.
+If you click on the title of the chart, the chart will open in a new tab. You can then copy-paste the URL and share it.
+Map view: switch to a global map of confirmed deaths by clicking the ‘Map’ button at the top of the chart.
+
+Questions:
+-SELECT Data that we are going to be using 
+--Looking at Total cases vs Total Deaths 
+--Shiows likelihood of dying if you contarct in your country 
+
+--Looking at Total cases vs Total Deaths 
+--Shiows likelihood of dying if you contarct in your country 
+--Looking at Total cases vs Populations 
+--Shiows Percentage of Population got Covid
+--Looking at Countries with Highest Infection Rate compared to Population
+--Showing Countries with Highest Death Count per Population 
+--Let's breake things down by continent 
+
+--Sowing cotintents with Highest Death per population 
+--GLOBAL NUMBERS 
+--Looking at total population vs vaccinations
+
+ --USE CTE 
+--TEMP TABLE 
+-- Drop the view if it exists
+-- Recreate the view 
+
+or -- create the view
+
