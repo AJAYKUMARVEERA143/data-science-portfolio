@@ -55,9 +55,9 @@ Data-driven professional blending **MBA in Data Science** with 5+ years entrepre
 ---
 
 ### 🏆 Achievements  
-- Founded 3 revenue-generating brands with ₹2.3Cr+ turnover  
+- Founded 3 revenue-generating brands   
 - Improved inventory forecasting accuracy by 30% using ML  
-- Automated reporting workflows saving 15+ hours/week  
+  
 
 ---
 
